@@ -6,3 +6,6 @@ print("Good Day!")
 
 a = 3
 print(a == 4)
+
+
+# a few more codes
