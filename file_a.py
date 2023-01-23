@@ -4,4 +4,7 @@ print('Good Evening!')
 
 #new branch feature
 
-#fig a new bug in main
+for i in [1,2,4,5]:
+    print('This is ' + str(i))
+
+#fix a new bug in main
